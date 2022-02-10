@@ -1,0 +1,2 @@
+# DjangoRTChatApp
+Django Realtime chatapp
